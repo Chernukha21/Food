@@ -345,7 +345,6 @@ window.addEventListener('DOMContentLoaded', e => {
                 current.textContent = slideIndex;
             }
         })
-
     });
 
     function deleteNotDigits(str) {
